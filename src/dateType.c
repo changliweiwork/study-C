@@ -3,7 +3,7 @@
 #include <float.h>
 int main()
 {
-    printf("void的大小是：%lu\n",sizeof(void));
+//    printf("void的大小是：%lu\n",sizeof(void));
     printf("char的大小是：%lu\n", sizeof(char));
     printf("unsigned char的大小是：%lu\n", sizeof(unsigned char));
     printf("short的大小是：%lu\n", sizeof(short));
